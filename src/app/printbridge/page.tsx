@@ -60,7 +60,7 @@ export default function HomePage() {
 
             <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 pt-2">
               <a
-                href="https://chromewebstore.google.com/detail/printbridge"
+                href="https://chromewebstore.google.com/detail/printbridge/nlcjdcpoibicgiejjhfdmfioojaaapng"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 text-base font-bold text-white bg-brand-600 hover:bg-brand-700 rounded-xl shadow-lg shadow-brand-600/25 hover:shadow-xl transition-all"
@@ -123,7 +123,7 @@ export default function HomePage() {
                 </p>
               </div>
               <a
-                href="https://chromewebstore.google.com/detail/printbridge"
+                href="https://chromewebstore.google.com/detail/printbridge/nlcjdcpoibicgiejjhfdmfioojaaapng"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 w-full px-4 py-2.5 bg-brand-600 hover:bg-brand-700 text-white font-semibold text-sm rounded-lg transition-colors"
@@ -258,7 +258,7 @@ export default function HomePage() {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
-            href="https://chromewebstore.google.com/detail/printbridge"
+            href="https://chromewebstore.google.com/detail/printbridge/nlcjdcpoibicgiejjhfdmfioojaaapng"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 text-base font-bold text-white bg-brand-600 hover:bg-brand-700 rounded-xl shadow-md transition-all"

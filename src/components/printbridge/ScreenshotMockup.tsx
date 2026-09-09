@@ -25,7 +25,7 @@ export const ScreenshotMockup: React.FC<ScreenshotMockupProps> = ({ type, captio
             <div className="w-3 h-3 rounded-full bg-emerald-400"></div>
           </div>
           <div className="text-[11px] font-mono text-slate-500 bg-white/70 px-3 py-0.5 rounded-full border border-slate-300/60 truncate max-w-[280px] sm:max-w-md">
-            {type.includes('chrome') && 'chromewebstore.google.com/detail/printbridge'}
+            {type.includes('chrome') && 'chromewebstore.google.com/detail/printbridge/nlcjdcpoibicgiejjhfdmfioojaaapng'}
             {type.includes('download') && 'chakudee.com/printbridge/download'}
             {type.includes('installer') && 'Windows Installer — PrintBridge Setup v1.0.0'}
             {type.includes('popup') && 'chrome-extension://printbridge/popup.html'}

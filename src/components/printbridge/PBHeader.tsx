@@ -82,7 +82,7 @@ export const PBHeader: React.FC<PBHeaderProps> = () => {
               <span>Download for Windows</span>
             </a>
             <a
-              href="https://chromewebstore.google.com/detail/printbridge"
+              href="https://chromewebstore.google.com/detail/printbridge/nlcjdcpoibicgiejjhfdmfioojaaapng"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-1.5 px-4 py-2 text-sm font-semibold text-white bg-brand-600 hover:bg-brand-700 rounded-lg shadow-sm hover:shadow transition-all"
@@ -140,7 +140,7 @@ export const PBHeader: React.FC<PBHeaderProps> = () => {
 
           <div className="pt-3 border-t border-slate-200 flex flex-col gap-2.5">
             <a
-              href="https://chromewebstore.google.com/detail/printbridge"
+              href="https://chromewebstore.google.com/detail/printbridge/nlcjdcpoibicgiejjhfdmfioojaaapng"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full inline-flex items-center justify-center gap-2 px-4 py-2.5 text-base font-semibold text-white bg-brand-600 hover:bg-brand-700 rounded-lg shadow-sm"

@@ -45,7 +45,7 @@ export default function GuidePage() {
         </p>
         <div>
           <a
-            href="https://chromewebstore.google.com/detail/printbridge"
+            href="https://chromewebstore.google.com/detail/printbridge/nlcjdcpoibicgiejjhfdmfioojaaapng"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-4 py-2.5 bg-brand-600 hover:bg-brand-700 text-white font-semibold text-sm rounded-lg shadow transition-colors"
